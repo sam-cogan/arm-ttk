@@ -1,0 +1,12 @@
+﻿{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json",
+    "resources": [
+        {
+
+            "fail2": {
+                "id": 1
+            }
+
+        }
+    ]
+}
